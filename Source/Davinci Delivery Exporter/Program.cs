@@ -107,7 +107,7 @@ namespace Davinci_Delivery_Exporter
                 {
                     string oldData = "";
                     string outputData = "";
-                    bool elementMarker = false;
+                    bool endPresetList = false;
 
                     StreamReader reader = new StreamReader(DeliveryPresets);
                     oldData = reader.ReadToEnd();
@@ -116,15 +116,15 @@ namespace Davinci_Delivery_Exporter
 
                     foreach (string line in oldData.Replace("\r\n", "\n").Split('\n'))
                     {
-                        if (line.Contains("<Element>"))
+                        if (line.Contains("</PresetList>"))
                         {
-                            if (elementMarker == false)
+                            if (endPresetList == false)
                             {
                                 StreamReader Inputreader = new StreamReader(InputFile);
                                 outputData = outputData + Inputreader.ReadToEnd() + "\r\n";
                                 Inputreader.Close();
                                 Inputreader.Dispose();
-                                elementMarker = true;
+                                endPresetList = true;
                             }
                         }
 
