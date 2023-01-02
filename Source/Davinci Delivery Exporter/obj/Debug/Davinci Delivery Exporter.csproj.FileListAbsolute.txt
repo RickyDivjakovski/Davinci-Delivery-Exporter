@@ -1,0 +1,10 @@
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\bin\Debug\Davinci Delivery Exporter.exe.config
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\bin\Debug\Davinci Delivery Exporter.exe
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\bin\Debug\Davinci Delivery Exporter.pdb
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\obj\Debug\Davinci Delivery Exporter.csproj.AssemblyReference.cache
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\obj\Debug\Davinci Delivery Exporter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\obj\Debug\Davinci Delivery Exporter.csproj.ResolveComReference.cache
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\obj\Debug\Davinci Delivery Exporter.csproj.CoreCompileInputs.cache
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\obj\Debug\Davinci Delivery Exporter.exe
+C:\Users\Dadde Dee\source\repos\Davinci Delivery Exporter\Davinci Delivery Exporter\obj\Debug\Davinci Delivery Exporter.pdb
