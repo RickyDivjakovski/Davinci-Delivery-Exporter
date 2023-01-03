@@ -13,11 +13,7 @@ Usage:
 
 -import [InputFile]                  | Imports all delivery presets
 
-                                     |
-
 -list                                | Lists all available presets
-
-                                     |
 
 -help                                | Displays this help message
 
