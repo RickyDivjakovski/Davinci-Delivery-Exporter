@@ -8,12 +8,19 @@ Simple to use - dde.exe -help for usage.
 ----------------------------------------------------------------------
 
 Usage:
+
 -export [PresetName] [OutputFile]    | Exports single delivery preset
+
 -import [InputFile]                  | Imports all delivery presets
+
                                      |
+
 -list                                | Lists all available presets
+
                                      |
+
 -help                                | Displays this help message
+
 -version                             | Displays version info
 
 
